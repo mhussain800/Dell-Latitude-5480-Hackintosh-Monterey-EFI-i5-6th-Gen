@@ -1,7 +1,6 @@
 # Dell-Latitude-5480-Monterey-i5-6th-gen-Success-EFI-Folder
 Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
-<img width="1440" alt="Screenshot 2023-09-03 at 8 31 57 AM" src="https://github.com/mhussain800/Dell-Latitude-5480-macOS-Monterey-Success/assets/87897681/f6595c10-24fc-47ca-9b08-a6b99367f885">
-
+<img width="1440" alt="Screenshot 2023-09-03 at 8 31 57 AM" src="https://github.com/mhussain800/Dell-Latitude-5480-Hackintosh-Monterey-EFI-i5-6th-Gen/assets/87897681/308cfc6c-9def-4f30-883c-737ddf5f23c2">
 ## **Laptop Specs!**
 - Model: Dell Latitude 5480
 - macOS Version: Monterey 12.6.8
