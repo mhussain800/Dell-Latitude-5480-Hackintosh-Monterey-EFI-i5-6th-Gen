@@ -6,12 +6,13 @@ Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
 - macOS Version: Monterey 12.6.8
 - OpenCore Version: 0.9.4
 
+
 + CPU: Intel® Core™ i5-6200U
 + GPU: Intel® HD Graphics 520
 + RAM: 8GB DDR4
 + Ethernet: Intel® Ethernet I219-LM
 + Wi-Fi: Intel® Dual Band Wireless-AC 8265
-+ Sound Card: ALC256 (layout-id 69 with ALC256.kext)
++ Sound Card: ALC256/(ALC3246) (use layout-id 69 with ALC256.kext)
 + Trackpad: AlpsAlpine U1 Dual I2C Touchpad (0x120b)
 + SD Card Reader: Realtek RTS525A
 + Internal Display: 1920x1080 Full HD Screen
@@ -21,9 +22,10 @@ Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
 + Wifi
 + Bluetooth
 + iGPU
-+ All USB ports (3x USB 3.0, 1x USB-C)
++ All USB ports (3x USB 2.0, 1x USB-C)
 + Ethernet
 + Audio (using ALC256.kext with layout-id set to 69)
++ Headphone Jack with Mic
 + SD Card slot (using RealtekCardReader and RealtekCardReaderFriend)
 + Sleep & Wake with Lid (now works with USB mapping and GPRW and UPRW Instant Wake Patch)
 + CPU Power Management
@@ -36,6 +38,7 @@ Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
 + AirPlay
 + Battery Percentage
 + Brightness Keys
++ HDMI with Audio
 
 # **❌ Not working**
 + Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
