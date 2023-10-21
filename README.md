@@ -12,7 +12,7 @@ Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
 + RAM: 8GB DDR4
 + Ethernet: Intel® Ethernet I219-LM
 + Wi-Fi: Intel® Dual Band Wireless-AC 8265
-+ Sound Card: ALC256/(ALC3246) (use layout-id 69 with ALC256.kext)
++ Sound Card: ALC256 (ALC3246) (use layout-id 69 with ALC256.kext)
 + Trackpad: AlpsAlpine U1 Dual I2C Touchpad (0x120b)
 + SD Card Reader: Realtek RTS525A
 + Internal Display: 1920x1080 Full HD Screen
