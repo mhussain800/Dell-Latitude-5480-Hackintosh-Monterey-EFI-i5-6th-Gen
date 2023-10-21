@@ -22,7 +22,7 @@ Dell Latitude 5480 i5 6th Gen macOS Monterey, Everything Fully Working Success
 + Wifi
 + Bluetooth
 + iGPU
-+ All USB ports (3x USB 2.0, 1x USB-C)
++ All USB ports (3x USB 3.0, 1x USB-C)
 + Ethernet
 + Audio (using ALC256.kext with layout-id set to 69)
 + Headphone Jack with Mic
